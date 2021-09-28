@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://cdn-icons-png.flaticon.com/512/2572/2572984.png">
+  <a href="https://cdn-icons-png.flaticon.com/128/5192/5192360.png">
     <img src="https://cdn-icons-png.flaticon.com/128/1055/1055646.png" alt="Logo" width="80" height="80">
   </a>
 </div>
@@ -48,7 +48,7 @@ I have a solid background in designing and developing complex web applications. 
 
 `Contact Info`
 
-<h4>Email:</h4> 
+<h4>Email</h4> 
 
 <div align="center"> 
   
@@ -58,10 +58,21 @@ I have a solid background in designing and developing complex web applications. 
   
 </div>
 
+<h4>Facebook</h4> 
+
+<div align="center"> 
+  
+ ``` 
+ https://www.facebook.com/RegalCoderz
+ ```
+  
+</div>
+
 <br />
 
 <div align="center"> 
   
  ![GitHub followers](https://img.shields.io/github/followers/RegalCoderz?label=Github%20Followers&style=social)
+ ![Twitter URL](https://img.shields.io/twitter/url?label=RegalCoderz&style=social&url=https%3A%2F%2Ftwitter.com%2FRegalCoderz)
   
 </div>
