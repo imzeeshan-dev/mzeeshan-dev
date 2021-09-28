@@ -27,16 +27,28 @@ I have a solid background in designing and developing complex web applications. 
 `Skills`
 
 <p>
-𝐈 𝐚𝐦 𝐩𝐫𝐨𝐟𝐢𝐜𝐢𝐞𝐧𝐭 𝐢𝐧
-  
-- Adobe XD / Figma 
-- HTML5
-- CSS3 / SAAS / SCSS
-- Bootstrap5 / Material UI / Materialize
-- JavaScript / jQuery
-- React Js / Redux Js
-- Next Js / Gatsby
-- Node Js / Express Js
+<h6>Languages</h6>
+<p>HTML5,  XML,  CSS3, Sass, JavaScript, ECMAScript (ES6), TypeScript, GraphQL</p>
+</p>
+
+<p>
+<h6>Frameworks</h6>
+<p>Bootstrap, Material UI, React, Redux, Next Js, Gatsby Js, Express.js</p>
+</p>
+
+<p>
+<h6>Libraries/APIs</h6>
+<p>jQuery, React Redux, React Router, React Hook Form, Chart Js, NPM</p>
+</p>
+
+<p>
+<h6>Tools</h6>
+<p>Atom, Visual Studio, Git, Github, Trello, Slack, Postman, Adobe XD, Figma</p>
+</p>
+
+<p>
+<h6>Others</h6>
+<p>WordPress, UI/UX, Responsive Designs, Media Queries, RESTful APIs, JSON, PWA</p>
 </p>
 
 <br />
