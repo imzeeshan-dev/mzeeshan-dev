@@ -119,7 +119,7 @@ I have a solid background in designing and developing complex web applications. 
 
 <h4>
     
- `Important Tags`
+ `Tags`
     
 </h4>
 
@@ -141,13 +141,28 @@ I have a solid background in designing and developing complex web applications. 
  <code>MERN Stack Developer</code>
  <code>Full Stack Developer</code>
  
+
+<br />
+
+<h4>
     
+ `Analytics`
+    
+</h4>
+
+<br />
+
+<div align="center">
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=RegalCoderz&show_icons=true&locale=en&layout=compact" alt="RegalCoderz" width="50%"><p>
+</div>
+
 <br />
 
 <pre align="center">ꜱᴛʀᴏɴɢ ᴄᴏᴍᴍᴜɴɪᴄᴀᴛɪᴏɴ | ᴘʀᴏʙʟᴇᴍ ꜱᴏʟᴠɪɴɢ |  ᴇꜰꜰᴇᴄᴛɪᴠᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ | ᴡɪᴛʜ ᴀ ꜱᴍɪʟᴇ! 
 
 Designed with ❤️ By 𝐙𝐞𝐞
 </pre>
+
 
 <br />
 
