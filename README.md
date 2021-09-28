@@ -18,13 +18,21 @@
   
 </div>
 
-`About`
+<h4>
+    
+ `About`
+    
+</h4>
  
 I have a solid background in designing and developing complex web applications. I am most comfortable working in the JS world but I open to learning and working with new tools. I can work independently and respect a deadline indefinitely. I feel comfortable working with a good team of developers. I am passionate about the web development industry and I take pride in my dependable experience in the field.
 
 <br />
 
-`Skills`
+<h4>
+    
+ `Skills`
+    
+</h4>
 
 <p>
 <h6>Languages</h6>
@@ -57,7 +65,11 @@ I have a solid background in designing and developing complex web applications. 
 
 <br />
 
-`Contact Info`
+<h4>
+    
+ `Contact Info`
+    
+</h4>
 
 <h4>Email</h4> 
 
@@ -71,7 +83,11 @@ I have a solid background in designing and developing complex web applications. 
 
 <br />
 
-`Social Links`
+<h4>
+    
+ `Social Links`
+    
+</h4>
 
 <br />
 
@@ -95,6 +111,19 @@ I have a solid background in designing and developing complex web applications. 
 </div>
 
 <br />
+
+<h4>
+    
+ `Important Tags`
+    
+</h4>
+
+<br />
+
+ <code>Designer</code>
+ <code>Developer</code>
+ 
+    
 <br />
 
 <pre align="center">ꜱᴛʀᴏɴɢ ᴄᴏᴍᴍᴜɴɪᴄᴀᴛɪᴏɴ | ᴘʀᴏʙʟᴇᴍ ꜱᴏʟᴠɪɴɢ |  ᴇꜰꜰᴇᴄᴛɪᴠᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ | ᴡɪᴛʜ ᴀ ꜱᴍɪʟᴇ! 
