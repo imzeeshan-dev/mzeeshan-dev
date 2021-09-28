@@ -83,4 +83,14 @@ I have a solid background in designing and developing complex web applications. 
 
 <br />
 
-<pre align="center"> ᴘʀᴏʙʟᴇᴍ ꜱᴏʟᴠɪɴɢ | ꜱᴛʀᴏɴɢ ᴄᴏᴍᴍᴜɴɪᴄᴀᴛɪᴏɴ | ᴇꜰꜰᴇᴄᴛɪᴠᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ | ᴡɪᴛʜ ᴀ ꜱᴍɪʟᴇ! </pre>
+<pre align="center">ꜱᴛʀᴏɴɢ ᴄᴏᴍᴍᴜɴɪᴄᴀᴛɪᴏɴ | ᴘʀᴏʙʟᴇᴍ ꜱᴏʟᴠɪɴɢ |  ᴇꜰꜰᴇᴄᴛɪᴠᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ | ᴡɪᴛʜ ᴀ ꜱᴍɪʟᴇ! 
+
+Designed with ❤️ By 𝐙𝐞𝐞
+</pre>
+
+<br />
+<br />
+
+<div align="center">
+    <img src="https://cdn-icons-png.flaticon.com/128/758/758878.png" alt="Logo" width="50" height="50">
+</div>
