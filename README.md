@@ -103,13 +103,13 @@ I have a solid background in designing and developing complex web applications. 
  <a href="#" target="blank">
   <img src="https://cdn-icons-png.flaticon.com/128/733/733590.png" alt="GMAIL" width="30" height="30"> 
  </a>
-  
- <a href="#" target="blank">
-  <img src="https://cdn-icons-png.flaticon.com/128/733/733548.png" alt="GMAIL" width="30" height="30">  
- </a>
     
  <a href="#" target="blank">
   <img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="GMAIL" width="30" height="30">  
+ </a>
+  
+ <a href="#" target="blank">
+  <img src="https://cdn-icons-png.flaticon.com/128/733/733548.png" alt="GMAIL" width="30" height="30">  
  </a>
 
   
