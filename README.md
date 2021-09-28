@@ -67,15 +67,15 @@ I have a solid background in designing and developing complex web applications. 
   <img src="https://cdn-icons-png.flaticon.com/128/733/733547.png" alt="GMAIL" width="30" height="30">  
  </a>
   
- <a href="javascript:void(0)" target="blank">
+ <a href="#" target="blank">
   <img src="https://cdn-icons-png.flaticon.com/128/733/733579.png" alt="GMAIL" width="30" height="30">  
  </a>
   
- <a href="javascript:void(0)" target="blank">
+ <a href="#" target="blank">
   <img src="https://cdn-icons-png.flaticon.com/128/733/733590.png" alt="GMAIL" width="30" height="30"> 
  </a>
   
- <a href="javascript:void(0)" target="blank">
+ <a href="#" target="blank">
   <img src="https://cdn-icons-png.flaticon.com/128/733/733548.png" alt="GMAIL" width="30" height="30">  
  </a>
   
