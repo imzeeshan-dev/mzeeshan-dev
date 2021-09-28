@@ -12,7 +12,11 @@
 
 <div align="center"> 
   
- `FULL STACK JAVASCRIPT DEVELOPER`
+ <h2>
+   
+  `FULL STACK JAVASCRIPT DEVELOPER`
+   
+  </h2>
   
 </div>
 
