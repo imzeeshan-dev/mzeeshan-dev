@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://cdn-icons-png.flaticon.com/128/5192/5192360.png">
-    <img src="https://cdn-icons-png.flaticon.com/128/1055/1055646.png" alt="Logo" width="80" height="80">
-  </a>
+    <img src="https://cdn-icons-png.flaticon.com/128/5659/5659422.png" alt="Logo" width="80" height="80">
 </div>
   
 <div align="center">
@@ -14,7 +12,7 @@
   
  <h2>
    
-  `FULL STACK JAVASCRIPT DEVELOPER`
+  `MERN STACK JAVASCRIPT DEVELOPER`
    
   </h2>
   
@@ -58,21 +56,31 @@ I have a solid background in designing and developing complex web applications. 
   
 </div>
 
-<h4>Facebook</h4> 
+<br />
 
-<div align="center"> 
+`Social Links`
+
+<br />
+
+<div align="left">
+ <a href="https://www.facebook.com/RegalCoderz" target="blank">
+  <img src="https://cdn-icons-png.flaticon.com/128/733/733547.png" alt="GMAIL" width="30" height="30">  
+ </a>
   
- ``` 
- https://www.facebook.com/RegalCoderz
- ```
+ <a href="" target="blank">
+  <img src="https://cdn-icons-png.flaticon.com/128/733/733579.png" alt="GMAIL" width="30" height="30">  
+ </a>
+  
+ <a href="" target="blank">
+  <img src="https://cdn-icons-png.flaticon.com/128/733/733590.png" alt="GMAIL" width="30" height="30"> 
+ </a>
+  
+ <a href="" target="blank">
+  <img src="https://cdn-icons-png.flaticon.com/128/733/733548.png" alt="GMAIL" width="30" height="30">  
+ </a>
   
 </div>
 
 <br />
 
-<div align="center"> 
-  
- ![GitHub followers](https://img.shields.io/github/followers/RegalCoderz?label=Github%20Followers&style=social)
- ![Twitter URL](https://img.shields.io/twitter/url?label=RegalCoderz&style=social&url=https%3A%2F%2Ftwitter.com%2FRegalCoderz)
-  
-</div>
+<pre align="center"> ᴘʀᴏʙʟᴇᴍ ꜱᴏʟᴠɪɴɢ | ꜱᴛʀᴏɴɢ ᴄᴏᴍᴍᴜɴɪᴄᴀᴛɪᴏɴ | ᴇꜰꜰᴇᴄᴛɪᴠᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ | ᴡɪᴛʜ ᴀ ꜱᴍɪʟᴇ! </pre>
