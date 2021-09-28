@@ -156,6 +156,21 @@ I have a solid background in designing and developing complex web applications. 
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadmohsin&show_icons=true&locale=en&layout=compact" alt="RegalCoderz" width="50%"><p>
 </div>
 
+
+<br />
+
+<h4>
+    
+ `Statistics`
+    
+</h4>
+
+<br />
+
+<div align="center">
+    <p><img src="https://github-readme-stats.vercel.app/api?username=RegalCoderz&show_icons=true&locale=en" alt="RegalCoderz" width="50%"><p>
+</div>
+
 <br />
 
 <pre align="center">ꜱᴛʀᴏɴɢ ᴄᴏᴍᴍᴜɴɪᴄᴀᴛɪᴏɴ | ᴘʀᴏʙʟᴇᴍ ꜱᴏʟᴠɪɴɢ |  ᴇꜰꜰᴇᴄᴛɪᴠᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ | ᴡɪᴛʜ ᴀ ꜱᴍɪʟᴇ! 
