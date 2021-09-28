@@ -29,7 +29,8 @@ I have a solid background in designing and developing complex web applications. 
 <p>
 𝐈 𝐚𝐦 𝐩𝐫𝐨𝐟𝐢𝐜𝐢𝐞𝐧𝐭 𝐢𝐧
   
-- Adobe XD / Figma - HTML5
+- Adobe XD / Figma 
+- HTML5
 - CSS3 / SAAS / SCSS
 - Bootstrap5 / Material UI / Materialize
 - JavaScript / jQuery
