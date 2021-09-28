@@ -119,7 +119,7 @@ I have a solid background in designing and developing complex web applications. 
 
 <br />
 
-> Looking forward to hearing your idea and/or business needs, where I could use my skills and expertise to full potential nurturing the growth of both parties with time and help you build it! If you want any free consultation or have any questions or queries, Please feel free to contact me. I am glad to serve you.
+> <img src="https://cdn-icons-png.flaticon.com/128/1622/1622087.png" alt="Hire Me" width="5%"> Looking forward to hearing your idea and/or business needs, where I could use my skills and expertise to full potential nurturing the growth of both parties with time and help you build it! If you want any free consultation or have any questions or queries, Please feel free to contact me. I am glad to serve you.
 
 <br />
 
