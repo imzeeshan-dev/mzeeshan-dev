@@ -61,6 +61,64 @@ I have a solid background in designing and developing complex web applications. 
 
 <br />
 
+<h4>
+    
+ `Tags`
+    
+</h4>
+
+<br />
+
+ <code>Designer</code>
+ <code>Developer</code>
+ <code>Web Designing</code>
+ <code>Web Development</code>
+ <code>Designing & Development</code>
+ <code>Frontend Developer</code>
+ <code>Javascript</code>
+ <code>React Js</code>
+ <code>Backend Developer</code>
+ <code>Node Js</code>
+ <code>Express Js</code>
+ <code>Mongo DB</code>
+ <code>Firebase</code>
+ <code>MERN Stack Developer</code>
+ <code>Full Stack Developer</code>
+ 
+
+<br />
+
+<h4>
+    
+ `Analytics`
+    
+</h4>
+
+<br />
+
+<div align="center">
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadmohsin&show_icons=true&locale=en&layout=compact" alt="RegalCoderz" width="50%"><p>
+</div>
+
+
+<br />
+
+<h4>
+    
+ `Statistics`
+    
+</h4>
+
+<br />
+
+<div align="center">
+    <p><img src="https://github-readme-stats.vercel.app/api?username=RegalCoderz&show_icons=true&locale=en" alt="RegalCoderz" width="50%"><p>
+</div>
+
+<br />
+
+<br />
+
 > Looking forward to hearing your idea and/or business needs, where I could use my skills and expertise to full potential nurturing the growth of both parties with time and help you build it! If you want any free consultation or have any questions or queries, Please feel free to contact me. I am glad to serve you.
 
 <br />
@@ -116,61 +174,6 @@ I have a solid background in designing and developing complex web applications. 
 </div>
 
 <br />
-
-<h4>
-    
- `Tags`
-    
-</h4>
-
-<br />
-
- <code>Designer</code>
- <code>Developer</code>
- <code>Web Designing</code>
- <code>Web Development</code>
- <code>Designing & Development</code>
- <code>Frontend Developer</code>
- <code>Javascript</code>
- <code>React Js</code>
- <code>Backend Developer</code>
- <code>Node Js</code>
- <code>Express Js</code>
- <code>Mongo DB</code>
- <code>Firebase</code>
- <code>MERN Stack Developer</code>
- <code>Full Stack Developer</code>
- 
-
-<br />
-
-<h4>
-    
- `Analytics`
-    
-</h4>
-
-<br />
-
-<div align="center">
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadmohsin&show_icons=true&locale=en&layout=compact" alt="RegalCoderz" width="50%"><p>
-</div>
-
-
-<br />
-
-<h4>
-    
- `Statistics`
-    
-</h4>
-
-<br />
-
-<div align="center">
-    <p><img src="https://github-readme-stats.vercel.app/api?username=RegalCoderz&show_icons=true&locale=en" alt="RegalCoderz" width="50%"><p>
-</div>
-
 <br />
 
 <pre align="center">ꜱᴛʀᴏɴɢ ᴄᴏᴍᴍᴜɴɪᴄᴀᴛɪᴏɴ | ᴘʀᴏʙʟᴇᴍ ꜱᴏʟᴠɪɴɢ |  ᴇꜰꜰᴇᴄᴛɪᴠᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ | ᴡɪᴛʜ ᴀ ꜱᴍɪʟᴇ! 
