@@ -82,13 +82,13 @@ I have a solid background in designing and developing complex web applications. 
 </div>
 
 <br />
+<br />
 
 <pre align="center">ꜱᴛʀᴏɴɢ ᴄᴏᴍᴍᴜɴɪᴄᴀᴛɪᴏɴ | ᴘʀᴏʙʟᴇᴍ ꜱᴏʟᴠɪɴɢ |  ᴇꜰꜰᴇᴄᴛɪᴠᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ | ᴡɪᴛʜ ᴀ ꜱᴍɪʟᴇ! 
 
 Designed with ❤️ By 𝐙𝐞𝐞
 </pre>
 
-<br />
 <br />
 
 <div align="center">
