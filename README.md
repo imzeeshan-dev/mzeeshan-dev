@@ -69,7 +69,8 @@ I have a solid background in designing and developing complex web applications. 
 
 <br />
 
- <code>Designer</code>
+<div align="center">
+  <code>Designer</code>
  <code>Developer</code>
  <code>Web Designing</code>
  <code>Web Development</code>
@@ -84,6 +85,7 @@ I have a solid background in designing and developing complex web applications. 
  <code>Firebase</code>
  <code>MERN Stack Developer</code>
  <code>Full Stack Developer</code>
+</div>
  
 
 <br />
