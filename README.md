@@ -333,7 +333,7 @@ I have a solid background in designing and developing complex web applications. 
 
 <br />
 
-<img src="https://i.imgur.com/nyIOmbX.png" width="100%">
+<img src="https://i.imgur.com/lUOHVwz.png" width="100%">
 
 
 <br />
