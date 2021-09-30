@@ -203,7 +203,7 @@ I have a solid background in designing and developing complex web applications. 
 <br />
 
 <div align="center">
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=RegalCoderz&show_icons=true&locale=en&layout=compact&langs_count=5&hide=Objective-C" alt="RegalCoderz" width="50%"><p>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=RegalCoderz&show_icons=true&locale=en&layout=compact&langs_count=6&hide=Objective-C" alt="RegalCoderz" width="50%"><p>
 </div>
 
 
