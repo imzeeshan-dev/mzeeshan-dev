@@ -1,7 +1,7 @@
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&color=FFFFFF&size=32&center=true&width="1080"&lines=UI+%2F+UX+Designer;Web+Developer;Mobile+Apps+Developer;Frontend+Developer;Backend+Developer;Full+Stack+Developer;MERN+Stack+Developer)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&color=FFFFFF&size=32&center=true&width="1080"&lines=UI%2FUX+Designer;Front+End+Developer;Backend+Developer)](https://git.io/typing-svg)
 
 <div align="center">
     <img src="https://cdn-icons-png.flaticon.com/128/5659/5659422.png" alt="Logo" width="80" height="80">
@@ -33,11 +33,11 @@ I have a solid background in designing and developing complex web applications. 
 
 <br />
 
-<details>
+<!-- <details>
     
 <summary><b>&nbsp;Explore More About Me . . . </b></summary>
     
- <br />   
+ <br />    -->
 
 <h4>
     
