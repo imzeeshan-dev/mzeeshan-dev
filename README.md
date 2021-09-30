@@ -33,11 +33,11 @@ I have a solid background in designing and developing complex web applications. 
 
 <br />
 
-<!-- <details>
+<details>
     
 <summary><b>&nbsp;Explore More About Me . . . </b></summary>
     
- <br />    -->
+ <br />   
 
 <h4>
     
