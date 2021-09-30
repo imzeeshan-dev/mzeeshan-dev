@@ -9,7 +9,7 @@
   
 <div align="center">
  <h3 align="center">Muhammad Zeeshan</h3>
-  <p> 𝖙𝖍𝖊 𝖕𝖔𝖘𝖘𝖊𝖘𝖘𝖔𝖗 𝖔𝖋 𝖍𝖎𝖌𝖍 𝖘𝖙𝖆𝖙𝖚𝖘 𝖆𝖓𝖉 𝖘𝖕𝖑𝖊𝖓𝖉𝖔𝖗 ❤️ </p>
+  <p> 𝖙𝖍𝖊 𝖕𝖔𝖘𝖘𝖊𝖘𝖘𝖔𝖗 𝖔𝖋 𝖍𝖎𝖌𝖍 𝖘𝖙𝖆𝖙𝖚𝖘 𝖆𝖓𝖉 𝖘𝖕𝖑𝖊𝖓𝖉𝖔𝖗</p>
 </div>
 
 
@@ -32,6 +32,12 @@
 I have a solid background in designing and developing complex web applications. I am most comfortable working in the JS world but I open to learning and working with new tools. I can work independently and respect a deadline indefinitely. I feel comfortable working with a good team of developers. I am passionate about the web development industry and I take pride in my dependable experience in the field.
 
 <br />
+
+<details>
+    
+<summary><b>Explore More About Me . . . </b></summary>
+    
+ <br />   
 
 <h4>
     
@@ -65,13 +71,6 @@ I have a solid background in designing and developing complex web applications. 
 </p>
 
 <br />
-
-
-<details>
-    
-<summary><b>Load More . . . </b></summary>
-    
- <br />   
 
 <h4>
     
