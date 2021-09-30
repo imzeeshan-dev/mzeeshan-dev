@@ -63,11 +63,14 @@ I have a solid background in designing and developing complex web applications. 
 <br />
 
 <details>
-  <summary><b>See More</b></summary>
     
+<summary><b>Load More . . . </b></summary>
+    
+ <br />   
+
 <h4>
     
- `Tech Badges`
+ `Top Tech`
     
 </h4>
 
@@ -252,7 +255,12 @@ I have a solid background in designing and developing complex web applications. 
 <br />
 
 <div align="left">
- <a href="https://www.facebook.com/RegalCoderz" target="blank">
+ 
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="RegalCoderz" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RegalCoderz" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RegalCoderz" height="30" width="40" /></a>
+   
+<!--  <a href="https://www.facebook.com/RegalCoderz" target="blank">
   <img src="https://cdn-icons-png.flaticon.com/128/733/733547.png" alt="GMAIL" width="30" height="30">  
  </a>
   
@@ -270,7 +278,7 @@ I have a solid background in designing and developing complex web applications. 
   
  <a href="#" target="blank">
   <img src="https://cdn-icons-png.flaticon.com/128/733/733548.png" alt="GMAIL" width="30" height="30">  
- </a>
+ </a> -->
 
   
 </div>
@@ -302,9 +310,12 @@ I have a solid background in designing and developing complex web applications. 
  <code>MERN Stack Developer</code>
  <code>Full Stack Developer</code>
 </div>
+    
+</details>
 
 <br />
 <br />
+   
 
 <pre align="center">ꜱᴛʀᴏɴɢ ᴄᴏᴍᴍᴜɴɪᴄᴀᴛɪᴏɴ | ᴘʀᴏʙʟᴇᴍ ꜱᴏʟᴠɪɴɢ |  ᴇꜰꜰᴇᴄᴛɪᴠᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ | ᴡɪᴛʜ ᴀ ꜱᴍɪʟᴇ! 
 
@@ -318,4 +329,4 @@ Designed with ❤️ By 𝐙𝐞𝐞
     <img src="https://cdn-icons-png.flaticon.com/128/758/758878.png" alt="Logo" width="50" height="50">
 </div>
     
-</details>
+
