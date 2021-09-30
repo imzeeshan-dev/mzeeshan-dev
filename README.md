@@ -1,4 +1,8 @@
 
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&color=FFFFFF&size=32&center=true&width="1080"&lines=UI%2FUX+Designer;Front+End+Developer;Backend+Developer)](https://git.io/typing-svg)
+
 <div align="center">
     <img src="https://cdn-icons-png.flaticon.com/128/5659/5659422.png" alt="Logo" width="80" height="80">
 </div>
@@ -61,6 +65,7 @@ I have a solid background in designing and developing complex web applications. 
 </p>
 
 <br />
+
 
 <details>
     
@@ -173,6 +178,22 @@ I have a solid background in designing and developing complex web applications. 
 </div>
 
 </p> -->
+
+<br />
+
+<h4>
+    
+ `This Week I Spent My Time on`
+    
+</h4>
+
+<br />
+
+<div align="center">
+    
+<p><img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=RegalCoderz&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" alt="RegalCoderz" width="50%"><p>
+    
+</div>
 
 <br />
 
