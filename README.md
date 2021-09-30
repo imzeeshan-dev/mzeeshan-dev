@@ -62,6 +62,9 @@ I have a solid background in designing and developing complex web applications. 
 
 <br />
 
+<details>
+  <summary><b>See More</b></summary>
+    
 <h4>
     
  `Tech Badges`
@@ -314,3 +317,5 @@ Designed with ❤️ By 𝐙𝐞𝐞
 <div align="center">
     <img src="https://cdn-icons-png.flaticon.com/128/758/758878.png" alt="Logo" width="50" height="50">
 </div>
+    
+</details>
