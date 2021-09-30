@@ -35,7 +35,7 @@ I have a solid background in designing and developing complex web applications. 
 
 <details>
     
-<summary><b>Explore More About Me . . . </b></summary>
+<summary><b>&nbsp;Explore More About Me . . . </b></summary>
     
  <br />   
 
