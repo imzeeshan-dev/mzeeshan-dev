@@ -176,7 +176,7 @@ I have a solid background in designing and developing complex web applications. 
 
 </p> -->
 
-<br />
+<!-- <br />
 
 <h4>
     
@@ -190,7 +190,7 @@ I have a solid background in designing and developing complex web applications. 
     
 <p><img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=RegalCoderz&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" alt="RegalCoderz" width="50%"><p>
     
-</div>
+</div> -->
 
 <br />
 
