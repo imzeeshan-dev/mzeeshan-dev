@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&color=FFFFFF&size=32&center=true&width="1080"&lines=UI+%2F+UX+Designer;Web+Developer;Mobile+Apps+Developer;Frontend+Developer;Backend+Developer;Full+Stack+Developer;MERN+Stack+Developer)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&color=FFFFFF&size=32&center=true&width="1080"&lines=UI+%2F+UX+Designer;Web+Developer;Mobile+Apps+Developer;Frontend+Developer;Backend+Developer;Full+Stack+Developer;MERN+Stack+Developer)](https://git.io/typing-svg) -->
 
 
 <div align="center">
