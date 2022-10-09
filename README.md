@@ -223,7 +223,7 @@ I have a solid background in designing and developing complex web applications. 
     <p><img src="https://github-readme-stats.vercel.app/api?username=RegalCoderz&hide=prs,issues&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="RegalCoderz" width="50%"><p>
 </div>
 
-<br /> -->
+<br /> 
 
 <h4>
     
@@ -238,7 +238,7 @@ I have a solid background in designing and developing complex web applications. 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RegalCoderz&repo=Animated-Website-Using-Parallax.js)](https://github.com/RegalCoderz/Animated-Website-Using-Parallax.js)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RegalCoderz&repo=Animated-Website-Using-Parallax.js)](https://github.com/RegalCoderz/Animated-Website-Using-Parallax.js)
     
-</div>
+</div> -->
 
 <br />
 
